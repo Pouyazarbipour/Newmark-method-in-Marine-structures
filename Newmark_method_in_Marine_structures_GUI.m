@@ -1,6 +1,6 @@
-function Newmark_method_in_coastal_structures_GUI
+function Newmark_method_in_Marine_structures_GUI
     % Create GUI Figure
-    fig = uifigure('Name', 'Newmark method in coastal structures', 'Position', [100, 100, 800, 600]);
+    fig = uifigure('Name', 'Newmark method in Marine structures', 'Position', [100, 100, 800, 600]);
 
     % Input Fields
     uilabel(fig, 'Text', 'Wave length (meters):', 'Position', [20, 550, 120, 20]);
