@@ -24,8 +24,8 @@ This MATLAB GUI application simulates and visualizes the displacement and veloci
 ### Running the Application
 
 1.  Open MATLAB.
-2.  Navigate to the directory containing the `Newmark_method_in_Marine_structures_GUI.mlapp` (or `Newmark_method_in_Marine_structures_GUI.m`).
-3.  Open the `.mlapp` file to launch the App Designer (or just run the `.m` file).
+2.  Navigate to the directory containing the `Newmark_method_in_Marine_structures_GUI.m`.
+3.  just run the `.m` file).
 
 The GUI window will open, allowing you to input the required parameters.
 
@@ -72,9 +72,9 @@ The plot displays:
     Newmark_method_in_Marine_structures_GUI
     ```
 2.  Input the following parameters:
-    *   Wave length: 200
-    *   Wave height: 15
-    *   Water depth: 120
+    *   Wave length: 156
+    *   Wave height: 11.1
+    *   Water depth: 100
 3.  Press **Run Simulation**.
 4.  Observe the displacement and velocity plots on the axes.
 
